@@ -23,28 +23,3 @@ A feature-rich Todo application built with **Vue.js**, equipped with QR code sca
    - Toggle additional task details and counters as needed.
 3. **Scanning a QR Code**: Click on the QR scan icon to initiate the scanner, allowing task addition through QR codes.
 4. **App Installation**: Click the 'Install' button to add the app to your device's home screen, enabling offline access.
-
-## Installation
-
-Clone the repository and open the `index.html` file in your browser, or host it on a local server.
-
-```bash
-git clone <repository_url>
-cd todo-app
-npm install
-npm run serve
-
-Dependencies
-
-    Vue.js
-    html5-qrcode - for QR code scanning
-    App Install Banner - PWA installation prompt
-
-License
-
-This project is licensed under the MIT License.
-
-css
-
-
-This README includes instructions, feature descriptions, and installation steps but excludes 
