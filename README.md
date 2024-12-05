@@ -4,8 +4,8 @@ A feature-rich Todo application built with **Vue.js**, equipped with QR code sca
 
 ## Features
 
-- **Vue.js Framework**: Provides a responsive, dynamic interface for a smooth user experience.
-- **QR Code Scanning**: Integrated with [html5-qrcode](https://github.com/mebjas/html5-qrcode) to scan QR codes directly within the app, allowing for task addition or quick information lookup.
+- **[Vue.js](https://vuejs.org/) Framework**: Provides a responsive, dynamic interface for a smooth user experience.
+- **[QR Code Scanning](https://github.com/mebjas/html5-qrcode)**: Integrated with QR codes directly within the app, allowing for task addition or quick information lookup.
 - **PWA Install Button**: Supports installation as a Progressive Web App (PWA) for offline access.
 - **Task Management Tools**:
   - Add and delete tasks, including bulk options to delete completed tasks.
