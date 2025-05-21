@@ -13,7 +13,6 @@ A feature-rich Todo application built with **Vue.js**, equipped with QR code sca
   - Toggle task priorities, list numbering, and color indicators for easy organization.
   - Statistics view to track progress on completed tasks.
 - **Print Functionality**: Easily print the current task list for offline reference.
-- **Customizable View**: Toggle between different layout widths and enable/disable specific display options.
 
 ## How to Use
 
