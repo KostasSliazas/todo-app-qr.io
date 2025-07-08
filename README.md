@@ -17,3 +17,5 @@ A feature-rich Todo application built with **Vue.js**, equipped with QR code sca
    - Toggle additional task details and counters as needed.
 3. **Scanning a QR Code**: Click on the QR scan icon to initiate the scanner, allowing task addition through QR codes.
 4. **App Installation**: Click the 'Install' button to add the app to your device's home screen, enabling offline access.
+
+   Please use at your own discretion
