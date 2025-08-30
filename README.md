@@ -1,6 +1,6 @@
 # Todo App
 
-A feature-rich Todo application built with **Vue.js**, equipped with QR code scanning capabilities, offline installation support, and various customization options to help manage tasks effectively. (There is no source code, it's left rest in peace in broken SSD).
+A feature-rich Todo application built with **Vue.js**, equipped with QR code scanning capabilities, offline installation support, and various customization options to help manage tasks effectively.
 
 ## Features
 
